@@ -17,6 +17,10 @@
   },
   {
     "name": "letterboxd",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Letterboxd_2023_logo.png/960px-Letterboxd_2023_logo.png"
+    "url": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png"
+  },
+  {
+    "name": "trakt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Trakt.tv-favicon.svg"
   }
 ]
