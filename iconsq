@@ -1,7 +1,7 @@
-{
+[{
   "name": "imdb", "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/New-imdb-logo.png",
   "name": "tomatometer", "url": "https://cdn-1.webcatalog.io/catalog/rotten-tomatoes/rotten-tomatoes-icon-filled-256.webp?v=1780274014698",
   "name": "metacritic", "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Metacritic_M.png",
   "name": "tmdb", "url": "https://play-lh.googleusercontent.com/HqnJHPBfX2FU_NLkb5gEBCNdO8lzx0ZTWM2QmwTQENkrcGAIVhzjbrzGzipfX8cEt6pHC1BTcVed3lGa_ApL=w480-h960",
   "name": “letterboxd”, "url": “ https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Letterboxd_2023_logo.png/960px-Letterboxd_2023_logo.png”
-}
+}]
